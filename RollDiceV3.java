@@ -1,6 +1,6 @@
 /* Aarav Goyal
  * 9/27/2024
- * RollDice.java
+ * RollDiceV3.java
  * Working on: using Math.random to make a random # from 1 to 6.
  * Rolling the dice will be a method call
  */
