@@ -16,7 +16,7 @@
 	
 	public static int roll(){
 	int RollDie = 0;
-	 rollDie = (int) (Math.random()*6+1);
+	RollDie = (int) (Math.random()*6+1);
 		
 	}
  }
